@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 import scrapy
-import requests
 from scrapy.http import TextResponse
-from scrapy.spiders import CrawlSpider
 from scrapy.http.request import Request
 import pathlib
 
